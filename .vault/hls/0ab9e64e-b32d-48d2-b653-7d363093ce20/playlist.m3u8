@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-21/main/.vault/hls/0ab9e64e-b32d-48d2-b653-7d363093ce20/00000.dat
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-22/main/.vault/hls/0ab9e64e-b32d-48d2-b653-7d363093ce20/00001.dat
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-23/main/.vault/hls/0ab9e64e-b32d-48d2-b653-7d363093ce20/00002.dat
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-24/main/.vault/hls/0ab9e64e-b32d-48d2-b653-7d363093ce20/00003.dat
+#EXTINF:6.000,
+https://raw.githubusercontent.com/githvault/vault-storage-9/main/.vault/hls/0ab9e64e-b32d-48d2-b653-7d363093ce20/00004.dat
+#EXT-X-ENDLIST
